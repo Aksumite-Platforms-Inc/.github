@@ -9,3 +9,6 @@
 🍿 Fun facts - most % of our teams are non-degree but they are professors in works
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+[LMS_INSA](https://github.com/Aksumite-Platforms-Inc/LMS-INSA)
+
+[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1/project/018eca7f-c813-4633-98e0-caa0c65bafa3.svg)](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1/project/018eca7f-c813-4633-98e0-caa0c65bafa3)
